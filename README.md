@@ -1,16 +1,28 @@
-### Hi there 👋
+# Martin Zangl
 
-<!--
-**zanglmartin/zanglmartin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Senior Android & Mobile Engineer
 
-Here are some ideas to get you started:
+I build reliable mobile products and developer-facing SDKs across Android, iOS, Flutter, and React Native. My work combines architecture modernization, performance engineering, testing culture, and product delivery across fintech, healthcare, and IoT.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[View my portfolio](https://zanglmartin.github.io/) · [Connect on LinkedIn](https://www.linkedin.com/in/martinzangl/) · [Primary engineering profile: @mizangl](https://github.com/mizangl)
+
+## What I work on
+
+- Android architecture with Kotlin, Coroutines, Flow, MVVM/MVI, and Jetpack Compose
+- Cross-platform SDK consistency across Android, iOS, Flutter, and React Native
+- Offline-first synchronization and reliable event delivery
+- Performance, concurrency, observability, and constrained-device engineering
+- TDD, integration testing, end-to-end pipelines, and maintainable CI/CD
+- Camera and imaging infrastructure with CameraX, AVFoundation, and OpenCV
+
+## Featured engineering stories
+
+- [Mobile reliability and legacy modernization](https://zanglmartin.github.io/case-studies/mobile-reliability/)
+- [Cross-platform payment SDK delivery](https://zanglmartin.github.io/case-studies/payment-sdks/)
+- [Reusable fintech architecture](https://zanglmartin.github.io/case-studies/fintech-architecture/)
+
+This repository hosts the portfolio. My established code and open-source activity remain on [github.com/mizangl](https://github.com/mizangl).
+
+---
+
+Valencia, Spain · English and Spanish
